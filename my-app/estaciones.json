@@ -1,0 +1,154 @@
+{
+    "estaciones": [
+        {
+	    "id": 1,
+            "nombre": "CABA",
+            "cuenca": "Baja",
+            "referencia": "La Boca Sede Acumar",
+            "direccion": "Av. Almte Brown 1348",
+            "longitud": -58.358,
+            "latitud": -34.637,
+            "altura": 0
+        },
+        {
+	    "id": 2,
+            "nombre": "Avellaneda",
+            "cuenca": "Baja",
+            "referencia": "Centro de emergencia vial",
+            "direccion": "Av. Manuel Belgrano 2855",
+            "longitud": -58.35,
+            "latitud": -34.682,
+            "altura": 0
+        },
+        {
+            "id": 3,
+            "nombre": "Lanús",
+            "cuenca": "Baja",
+            "referencia": "Palacio Municipal",
+            "direccion": "Av. Hipolito Yrigoyen 3863",
+            "longitud": -58.392,
+            "latitud": -34.699,
+            "altura": 0
+        },
+        {
+            "id": 4,
+            "nombre": "Lomas de Zamora",
+            "cuenca": "Baja",
+            "referencia": "Delegacion Ingeniero Budge",
+            "direccion": "Campana 1780 e Guamini",
+            "longitud": -58.456,
+            "latitud": -34.714,
+            "altura": 0
+        },
+        {
+            "id": 5,
+            "nombre": "Almirante Brown",
+            "cuenca": "Media",
+            "referencia": "SIPBA - Estación de Bomberos",
+            "direccion": "Nro2001, Luis María Drago & Carlos Viel",
+            "longitud": -58.415,
+            "latitud": -34.841,
+            "altura": 0
+        },
+        {
+            "id": 6,
+            "nombre": "Esteban Echeverria",
+            "cuenca": "Media",
+            "referencia": "Dependencia Municipal,Sede Acumar",
+            "direccion": "Nuestras Malvinas 119",
+            "longitud": -58.472,
+            "latitud": -34.822,
+            "altura": 0
+        },
+        {
+            "id": 7,
+            "nombre": "Morón",
+            "cuenca": "Media",
+            "referencia": "Palacio Municipal",
+            "direccion": "Av. Hipólito Yrigoyen 1440",
+            "longitud": -58.627,
+            "latitud": -34.66,
+            "altura": 0
+        },
+        {
+            "id": 8,
+            "nombre": "Merlo",
+            "cuenca": "Media",
+            "referencia": "Palacio Municipal",
+            "direccion": "Av. del Libertador 391",
+            "longitud": -58.725,
+            "latitud": -34.67,
+            "altura": 0
+        },
+        {
+            "id": 9,
+            "nombre": "La Matanza",
+            "cuenca": "Media",
+            "referencia": "Palacio Municipal (Region 2 Sur)",
+            "direccion": "Almafuerte 3050",
+            "longitud": -58.63,
+            "latitud": -34.791,
+            "altura": 0
+        },
+        {
+            "id": 10,
+            "nombre": "Ezeiza",
+            "cuenca": "Media",
+            "referencia": "Palacio Municipal",
+            "direccion": "Nicolás Avellaneda 51",
+            "longitud": -58.526,
+            "latitud": -34.855,
+            "altura": 0
+        },
+        {
+            "id": 11,
+            "nombre": "Pte Peron",
+            "cuenca": "Alta",
+            "referencia": "Cementerio Municipal",
+            "direccion": "Cam. Real Guernica 2331",
+            "longitud": -58.381,
+            "latitud": -34.946,
+            "altura": 0
+        },
+        {
+            "id": 12,
+            "nombre": "San Vicente",
+            "cuenca": "Alta",
+            "referencia": "Defensa Civil",
+            "direccion": "Av. Sarmiento 2198",
+            "longitud": -58.409,
+            "latitud": -35.041,
+            "altura": 0
+        },
+        {
+            "id": 13,
+            "nombre": "Cañuelas",
+            "cuenca": "Alta",
+            "referencia": "Palacio Municipal",
+            "direccion": "C. Libertad 798",
+            "longitud": -58.761,
+            "latitud": -35.054,
+            "altura": 0
+        },
+        {
+            "id": 14,
+            "nombre": "General Las Heras",
+            "cuenca": "Alta",
+            "referencia": "COM",
+            "direccion": "Santiago Villamayor 1010",
+            "longitud": -58.943,
+            "latitud": -34.93,
+            "altura": 0
+        },
+        {
+            "id": 15,
+            "nombre": "Marcos Paz",
+            "cuenca": "Alta",
+            "referencia": "Palacio Municipal",
+            "direccion": "Aristobulo del Valle 1946",
+            "longitud": -58.836,
+            "latitud": -34.783,
+            "altura": 0
+        }
+    ]
+}
